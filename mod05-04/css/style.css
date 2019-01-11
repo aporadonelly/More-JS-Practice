@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Helvetica;
+}
+
+.container {
+	height: auto;
+	background:#eaeaea;
+	color:#000;
+	width: 100%;
+	border-radius: 5px;
+}
+
+#result {
+	margin-top: 20px;
+}
